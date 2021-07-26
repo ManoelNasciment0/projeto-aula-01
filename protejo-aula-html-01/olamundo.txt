@@ -1,7 +1,0 @@
-<h1> Olá Mundo! </h1>
-<p> Meu nome é Manoel Nascimento </p>
-<p> Quanta gente sonha em encontrar um lugarzinho ao sol
-E falha
-Bate mais apanha e não tem se quer nenhum lençol
-Que valha </p>
-<p> Tiee - Lugarzinho </P>
